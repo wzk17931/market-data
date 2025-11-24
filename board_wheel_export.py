@@ -26,7 +26,7 @@ COMMON_TYPE2_MAP: Dict[int, str] = {0: "2", 1: "3"}
 TAB2_MAP: Dict[int, Dict[str, str]] = {
     0: {"common_type1": "001", "name": "涨幅"},
     1: {"common_type1": "004", "name": "涨停家数"},
-    2: {"common_type1": "005", "name": "连板高度"},
+    2: {"common_type1": "005", "name": "涨跌比"},
     3: {"common_type1": "003", "name": "主力净流入"},
     4: {"common_type1": "002", "name": "成交额"},
 }
